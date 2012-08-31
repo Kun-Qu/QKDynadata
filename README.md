@@ -4,9 +4,13 @@ QKDynadata
 A dynamic data type for fortran, designed for numerical solving PDE
 
 ! dynamic data type
+
 ! Qu Kun, April 2012
+
 ! A simple dyanmic data container. It can manage array of INTERGER(4) 
+
 ! and REAL(8), dimension from 0 to 5. All arrays are managed in a link-list
+
 ! 
 ! User interface:
 ! dyd_new: create a aray
